@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://ohshimalab.github.io/tanaka2021/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ohshimalab.github.io/tanaka2021/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/schedule/</loc>
+    <loc>https://ohshimalab.github.io/tanaka2021/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://ohshimalab.github.io/tanaka2021/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
